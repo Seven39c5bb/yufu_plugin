@@ -1,9 +1,3 @@
-# helloworld
+# yufu_plugin
 
-AstrBot 插件模板
-
-A template plugin for AstrBot plugin feature
-
-# 支持
-
-[帮助文档](https://astrbot.app)
+## 仅在个人聊天群自定义的一些功能使用
